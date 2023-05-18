@@ -1,5 +1,3 @@
-<base target="_blank">
-
 # Actividad # 1
 
 ## Instrucciones
