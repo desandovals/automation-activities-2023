@@ -6,9 +6,9 @@
 
 Para la primer actividad, deberán cumplir lo siguiente: 
 
-1. Tener <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"> Visual Studio Code </a> instalado
+1. Instalar<a href="https://code.visualstudio.com/" target="_blank" rel="noopener"> Visual Studio Code </a> 
 
-1. Tener [Visual Studio Code](https://code.visualstudio.com/)
+1. Instalar [Visual Studio Code](https://code.visualstudio.com/){:target="_blank" rel="noopener"}
 2. Instalar <a href="https://code.visualstudio.com/"> Google Cloud SDK </a>
 
 3. Instalar <a href="https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe"> Cliente GIT </a>
