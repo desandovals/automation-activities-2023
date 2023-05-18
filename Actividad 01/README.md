@@ -1,4 +1,4 @@
-# Actividad # 1
+# Actividad 01
 
 ## Instrucciones
 

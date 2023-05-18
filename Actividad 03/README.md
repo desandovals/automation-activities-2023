@@ -1,4 +1,4 @@
-# Actividad # 3
+# Actividad 03
 
 ## Instrucciones
 
