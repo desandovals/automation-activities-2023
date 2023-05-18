@@ -17,6 +17,6 @@
 
 **Opcional:** 
 
-    - Si no encuentran el comando, pueden mostrar capturas de pantalla de la consola y adjuntarlas en el README. Pueden apoyarse de alguien que ya tenga cuenta habilitada en GCP. 
-    - El proyecto que pueden tomar para hacer las consultas es el `crp-dev-cloudsrv-test`. Sin embargo, las tarea es únicamente escribir comandos genéricos, sin necesidad de entrar a ningún proyecto en GCP.
+    - Si no encuentran el comando, pueden mostrar capturas de pantalla de la consola y adjuntarlas en el README. 
+    - Pueden apoyarse de alguien que ya tenga cuenta habilitada en GCP. 
 
