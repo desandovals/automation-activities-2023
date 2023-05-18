@@ -6,7 +6,7 @@
 
 Para la primer actividad, deberán cumplir lo siguiente: 
 
-1. Tener <a href="https://code.visualstudio.com/"> Visual Studio Code </a> instalado
+1. Tener <a href="https://code.visualstudio.com/" target="_blank" rel="noopener"> Visual Studio Code </a> instalado
 
 2. Instalar <a href="https://code.visualstudio.com/"> Google Cloud SDK </a>
 
