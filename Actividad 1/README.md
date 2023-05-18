@@ -23,11 +23,7 @@ ssh-keygen -t rsa
 6. Añadir llave SSH en usuario de GitHub
 
 <p align="center">
-<img src="images/image-01.png" width="200">
-</p>
-
-<p align="center">
-<img src="images/image-02.png" width="200">
+<img src="images/image-01.png" width="500">
 </p>
 
 
