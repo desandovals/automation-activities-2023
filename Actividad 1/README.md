@@ -1,16 +1,18 @@
+<base target="_blank">
+
 # Actividad # 1
 
 ## Instrucciones
 
 Para la primer actividad, deberán cumplir lo siguiente: 
 
-1. Tener <a href="https://code.visualstudio.com/" target="_blank"> Visual Studio Code </a> instalado
+1. Tener <a href="https://code.visualstudio.com/"> Visual Studio Code </a> instalado
 
-2. Instalar <a href="https://code.visualstudio.com/" target="_blank"> Google Cloud SDK </a>
+2. Instalar <a href="https://code.visualstudio.com/"> Google Cloud SDK </a>
 
-3. Instalar <a href="https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe" target="_blank"> Cliente GIT </a>
+3. Instalar <a href="https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe"> Cliente GIT </a>
 
-4. Obtener usuario en <a href="https://github.com" target="_blank"> GitHub </a> GitHub. 
+4. Obtener usuario en <a href="https://github.com"> GitHub </a> GitHub. 
 
 5. Generar llave SSH en GitHub. 
 
