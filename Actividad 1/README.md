@@ -14,7 +14,7 @@ Para la primer actividad, deberán cumplir lo siguiente:
 
 5. Generar llave SSH en GitHub. 
 
-<br> <br> Desde la terminal dentro de Visual Studio Code ejecutar: 
+Desde la terminal dentro de Visual Studio Code ejecutar: 
 
 ```
 ssh-keygen -t rsa
