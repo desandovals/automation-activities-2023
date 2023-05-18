@@ -1,4 +1,4 @@
-# Actividad 07
+# Actividad 08
 
 Nos dividiremos nuevamente en equipos. 
 
@@ -30,7 +30,7 @@ Para esta actividad ustedes elegir√°n el tiempo que crean necesario, pero deber√
 
 <div align="center">
 
-| Tiempo    | Participaciones |
+| Tiempo    | Puntos |
 | :-------: | :-------------: |
 | 20 mins   |  20             |
 | 30 mins   | 15               | 
