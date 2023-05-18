@@ -2,12 +2,11 @@
 
 ## Instrucciones
 
-Crear un programa haciendo uso de variables y funciones, que haga lo siguiente: 
+Nos dividiremos en equipos y haremos la siguiente actividad. 
 
-1. Generar un bucket GCS en el proyecto crp-dev-cloudsrv-test. 
-2. Generar un archivo txt y guarde el archivo en el bucket deseado
-3. Elimine el bucket
-4. Imprima en pantalla el nombre del equipo que desarrolló el programa. 
-5. Imprima en pantalla la fecha en que se ejecutó el programa. 
+Crear un programa de Shell Scripting de nombre ejercicio.sh que haga lo siguiente: 
 
-
+Indique fecha y hora. 
+Imprima en pantalla el proyecto donde nos encontramos actualmente. 
+Imprima en pantalla la lista de buckets que tenemos. 
+Imprima en pantalla la cantidad de buckets encontrados.
