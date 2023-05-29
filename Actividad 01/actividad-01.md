@@ -6,7 +6,7 @@ Para la primer actividad, deberán cumplir lo siguiente:
 
 1. Instalar [Visual Studio Code](https://code.visualstudio.com/)
 
-2. Instalar [Google Cloud SDK]([https://code.visualstudio.com/](https://cloud.google.com/sdk/docs/install?hl=es-419#windows))
+2. Instalar [Google Cloud SDK](https://code.visualstudio.com/](https://cloud.google.com/sdk/docs/install?hl=es-419#windows)
 
 3. Instalar [Cliente GIT](https://github.com/git-for-windows/git/releases/download/v2.40.1.windows.1/Git-2.40.1-64-bit.exe)
 
