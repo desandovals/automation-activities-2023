@@ -9,11 +9,8 @@
 [Responsabilidades de lider](../README.md)
 
 4. El `líder` creará un repositorio PÚBLICO en GitHub con el nombre que hayan elegido de su equipo y añadirlo al documento anexo. 
-5. Dar permisos a los participantes y a los usuarios: 
-    - desandovals
-    - eczepedah
-    - dfmonjarazf
-6. En el repositorio que el líder les compartió, deberán crear la siguiente estructura en su Visual Studio Code: 
+5. Dar permisos a los participantes al usuario `desandovals`.
+7. En el repositorio que el líder les compartió, deberán crear la siguiente estructura en su Visual Studio Code: 
 
 ```
 |- Branch (nombre del autor que lo hizo, si tienen dos nombres, separarlos con guión medio) 
